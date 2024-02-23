@@ -1,0 +1,84 @@
+.logo {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+}
+
+.side-title > h3 {
+    font-size: 21px;
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
+
+.side-title > p {
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+
+.sosial-media > img {
+    width: 30px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.navbar-custom {
+    background-image: url(images/bg-menu.jpg);
+}
+
+li.active {
+    background-image: url(images/bg-menu-hover.png);
+}
+
+.judul {
+    color:#103365;
+
+}
+
+.news > .title {
+    color: #2f75bb;
+    font-size: 20px;
+}
+
+.news > .subtitle {
+    color: #7B818B;
+    font-size: 13px;
+}
+
+.navy {
+    background-color: #0F3065;
+}
+
+.slide {
+    height: 100%;
+    width: 1500px;
+}
+
+.homepage {
+    height: auto;
+    width: 80px;
+}
+
+.klien {
+    height: auto;
+    width: 200px;
+}
+
+.portofolio {
+    height: 200px;
+    width: auto;
+}
+
+.gray {
+    background-color: #F7F7F7;
+}
+
+.form {
+    border: 3px solid #4060af;
+}
+
+.garis {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    color: #123368;
+    border: 2px solid darkblue;
+}
